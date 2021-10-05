@@ -1,2 +1,2 @@
 # DSA
-Data Structures and algorithms
+Add your favourite ds and algorithms here.
